@@ -23,13 +23,13 @@ const _allJournals = csv.parse(rawData, {
   skip_empty_lines: true,
 });
 
-// const allJournals = _allJournals
+const allJournals = _allJournals;
 //const allJournals = _allJournals.slice(0, 20);
 
-const onlyScrapeThis = [27, 29, 33, 34, 57, 79, 82, 85, 107, 109, 111, 113];
-const allJournals = _allJournals.filter((j) =>
-  onlyScrapeThis.includes(parseInt(j.No))
-);
+// const onlyScrapeThis = [27, 29, 33, 34, 57, 79, 82, 85, 107, 109, 111, 113];
+// const allJournals = _allJournals.filter((j) =>
+//   onlyScrapeThis.includes(parseInt(j.No))
+// );
 
 const errors = [];
 const corrections = [];
@@ -139,6 +139,9 @@ const ignoreList = [
 
   // wave 3
   29, 111,
+
+  // error wave 3
+  27, 34, 82, 107, 109,
 ];
 
 (async function () {
