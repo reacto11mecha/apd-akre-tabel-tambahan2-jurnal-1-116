@@ -6,3 +6,27 @@ Nomor 16, Reason: Can't open the journal
 Nomor 21, Reason: Can't reach for the selector
 Nomor 22, Reason: Can't reach for the selector
 Nomor 23, Reason: Can't open the journal
+Nomor 27, Reason: Can't reach for the selector
+Nomor 29, Reason: Can't open the journal
+Nomor 33, Reason: Can't reach for the selector
+Nomor 34, Reason: Can't reach for the selector
+Nomor 35, Reason: Can't open the journal
+Nomor 57, Reason: Can't open the journal
+Nomor 69, Reason: Can't open the journal
+Nomor 71, Reason: Can't open the journal
+Nomor 76, Reason: Can't reach for the selector
+Nomor 77, Reason: Can't reach for the selector
+Nomor 79, Reason: Can't open the journal
+Nomor 82, Reason: Can't open the journal
+Nomor 83, Reason: Can't reach for the selector
+Nomor 85, Reason: Can't reach for the selector
+Nomor 89, Reason: Can't reach for the selector
+Nomor 91, Reason: Can't reach for the selector
+Nomor 93, Reason: Can't reach for the selector
+Nomor 107, Reason: Can't open the journal
+Nomor 109, Reason: Can't reach for the selector
+Nomor 110, Reason: Can't reach for the selector
+Nomor 111, Reason: Can't open the journal
+Nomor 113, Reason: Can't open the journal
+Nomor 115, Reason: Can't reach for the selector
+Nomor 116, Reason: Can't open the journal

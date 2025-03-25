@@ -18,3 +18,129 @@ Data benar: {
   "Tahun": "2023",
   "Mahasiswa_yang_Terlibat": "Anisa Puspita Sari"
 }
+
+NOMOR: 26
+Data asli: {"Judul_Luaran":"Pemanfaatan Cloud Storage Sebagai Media Arsip Elektronik di Perusahaan Pemasaran Digital","Tahun":"2023","Mahasiswa_yang_Terlibat":"Vellycia Atma’ul Usna"}
+Koreksi: Judul tidak sama. Nama mahasiswa yang terlibat tidak sama
+Data benar: {
+  "Judul_Luaran": "PEMANFAATAN CLOUD STORAGE SEBAGAI MEDIA PENYIMPANAN ARSIP ELEKTRONIK DI PERUSAHAAN PEMASARAN DIGITAL",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Vellycia Atma'ul Usna"
+}
+
+NOMOR: 46
+Data asli: {"Judul_Luaran":"ANALISIS PENGELOLAAN SARANA DAN PRASARNA KANTOR PADA LKPP JAKARTA","Tahun":"2023","Mahasiswa_yang_Terlibat":"Nurullia Suci Rahmadani"}
+Koreksi: Tahun tidak sama.
+Data benar: {
+  "Judul_Luaran": "ANALISIS PENGELOLAAN SARANA DAN PRASARNA KANTOR PADA LKPP JAKARTA",
+  "Tahun": "12/11/2023",
+  "Mahasiswa_yang_Terlibat": "Nurullia Suci Rahmadani"
+}
+
+NOMOR: 53
+Data asli: {"Judul_Luaran":"Analysis Of Employee Performance PT. Tri Digi Fin","Tahun":"2023","Mahasiswa_yang_Terlibat":"Seifal Rezaldin"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "Analysis Of Employee Performance PT.Tri Digi Fin",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Seifal Rezaldin"
+}
+
+NOMOR: 58
+Data asli: {"Judul_Luaran":"ANALISIS PROSES PELATIHAN KARYAWAN PADA HANDCRAFT MACRAME (PT SIMPUL TALI INDONESIA)","Tahun":"2023","Mahasiswa_yang_Terlibat":"Vinda Selfiana"}
+Koreksi: Tahun tidak sama.
+Data benar: {
+  "Judul_Luaran": "ANALISIS PROSES PELATIHAN KARYAWAN PADA HANDCRAFT MACRAME (PT SIMPUL TALI INDONESIA)",
+  "Tahun": "12/11/2023",
+  "Mahasiswa_yang_Terlibat": "Vinda Selfiana"
+}
+
+NOMOR: 63
+Data asli: {"Judul_Luaran":"Pengaruh Lingkungan Kerja, Budaya Kerja, dan Beban Kerja Terhadap kinerja karyawan","Tahun":"2023","Mahasiswa_yang_Terlibat":"Jodie Firjatullah"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "Pengaruh Lingkungan Kerja, Budaya Kerja, dan Beban Kerja Terhadap Kinerja Karyawan",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Jodie Firjatullah"
+}
+
+NOMOR: 64
+Data asli: {"Judul_Luaran":"Kemampuan Penyesuaian Diri Pengaruhi Prestasi Akademik Mahasiswa","Tahun":"2023","Mahasiswa_yang_Terlibat":"Nadiyah"}
+Koreksi: Nama mahasiswa yang terlibat tidak sama
+Data benar: {
+  "Judul_Luaran": "Kemampuan Penyesuaian Diri Pengaruhi Prestasi Akademik Mahasiswa",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Nadiyah Nadiyah"
+}
+
+NOMOR: 66
+Data asli: {"Judul_Luaran":"Peran Organisasi dan Motivasi Belajar dalam Meningkatkan Prestasi Mahasiswa FE UNJ","Tahun":"2023","Mahasiswa_yang_Terlibat":"Nurmaidah"}
+Koreksi: Judul tidak sama. Nama mahasiswa yang terlibat tidak sama
+Data benar: {
+  "Judul_Luaran": "Peran Organisasi dan Motivasi Belajar dalam Meningkatkan Prestasi Mahasiswa FE",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Nurmaidah Nurmaidah"
+}
+
+NOMOR: 68
+Data asli: {"Judul_Luaran":"ANALISIS FAKTOR PENINGKAT PRESTASI BELAJAR SAAT INI","Tahun":"2023","Mahasiswa_yang_Terlibat":"Deswita Syafitri"}
+Koreksi: Nama mahasiswa yang terlibat tidak sama
+Data benar: {
+  "Judul_Luaran": "ANALISIS FAKTOR PENINGKAT PRESTASI BELAJAR SAAT INI",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Deswita Syafitri"
+}
+
+NOMOR: 72
+Data asli: {"Judul_Luaran":"Pengaruh Gaya Kepemimpinan, Kompensasi, dan Kepuasan Kerja Terhadap Kinerja Anggota Organisasi DI JABODETABEK","Tahun":"2023","Mahasiswa_yang_Terlibat":"Ezra Ikhwandaru"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "Pengaruh Gaya Kepemimpinan, Kompensasi, dan Kepuasan Kerja Terhadap Kinerja Anggota Organisasi",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Ezra Ikhwandaru"
+}
+
+NOMOR: 73
+Data asli: {"Judul_Luaran":"PENGARUH KOMUNIKASI INTERPERSONAL, KONSEP DIRI, DAN PENGETAHUAN TERHADAP KINERJA PENGURUS KOPERASI MAHASISWA","Tahun":"2023","Mahasiswa_yang_Terlibat":"Hanifah Ria Saputri"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "PENGARUH KOMUNIKASI INTERPERSONAL, KONSEP DIRI, DAN PENGETAHUAN TERHADAP KINERJA PENGURUS KOPERASI MAHASISWA DI JABODETABEK",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Hanifah Ria Saputri"
+}
+
+NOMOR: 75
+Data asli: {"Judul_Luaran":"THE EFFECT OF SELF EFFICACY AND SOFT SKILLS ON WORK READINESS IN STUDENTS OF THE FACULTY OF ECONOMICS, UNIVERSITAS NEGERI JAKARTA","Tahun":"2023","Mahasiswa_yang_Terlibat":"Farah Dila Syifa"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "THE INFLUENCE OF SELF EFFICACY AND SOFT SKILLS ON WORK READINESS IN STUDENTS OF THE FACULTY OF ECONOMICS, UNIVERSITAS NEGERI JAKARTA",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Farah Dila Syifa"
+}
+
+NOMOR: 88
+Data asli: {"Judul_Luaran":"PENGARUH PENDIDIKAN KEWIRAUSAHAAN, KREATIVITAS, DAN PRAKTIK KERJA INDUSTRI TERHADAP MINAT BERWIRAUSAHA SISWA SMK NEGERI 22 JAKARTA","Tahun":"2023","Mahasiswa_yang_Terlibat":"Yuniar Ardiyani"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "PENGARUH PENDIDIKAN KEWIRAUSAHAAN, KREATIVITAS, DAN PRAKTIK KERJA INDUSTRI TERHADAP MINAT BERWIRAUSAHA SMK NEGERI 22 JAKARTA",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Yuniar Ardiyani"
+}
+
+NOMOR: 101
+Data asli: {"Judul_Luaran":"The influence of locus of control and emotional intelligence on student ethical behavior","Tahun":"2022","Mahasiswa_yang_Terlibat":"Tasya Salsabila"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "THE INFLUENCE OF LOCUS OF CONTROL AND EMOTIONAL INTELLIGENCE ON STUDENT ETHICAL BEHAVIOR",
+  "Tahun": "2022",
+  "Mahasiswa_yang_Terlibat": "Tasya Salsabila"
+}
+
+NOMOR: 102
+Data asli: {"Judul_Luaran":"Self-efficacy and Achievement Motivation on Student Learning Independence","Tahun":"2022","Mahasiswa_yang_Terlibat":"Vania Miranda"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "SELF-EFFICACY AND ACHIEVEMENT MOTIVATION ON STUDENT LEARNING INDEPENDENCE",
+  "Tahun": "2022",
+  "Mahasiswa_yang_Terlibat": "Vania Miranda"
+}
