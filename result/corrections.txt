@@ -1,0 +1,20 @@
+Mohon perbaiki secara manual berdasarkan laporan dibawah ini.
+
+
+NOMOR: 2
+Data asli: {"Judul_Luaran":"Pengaruh Perubahan Digitalisasi, Kesenjangan Digital dan Transformasi Terhadap Efektivitas Perusahaan","Tahun":"2024","Mahasiswa_yang_Terlibat":"Septi Lis Anandita"}
+Koreksi: Tahun tidak sama.
+Data benar: {
+  "Judul_Luaran": "Pengaruh Perubahan Digitalisasi, Kesenjangan Digital dan Transformasi Terhadap Efektivitas Perusahaan",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Septi Lis Anandita"
+}
+
+NOMOR: 14
+Data asli: {"Judul_Luaran":"ANALYSIS OF THE USE OF FACILITIES AND INFRASTRUCTURE IN SUPPORTING ADMINISTRATIVE SERVICES","Tahun":"1","Mahasiswa_yang_Terlibat":"Anisa Puspita Sari"}
+Koreksi: Tahun tidak sama.
+Data benar: {
+  "Judul_Luaran": "ANALYSIS OF THE USE OF FACILITIES AND INFRASTRUCTURE IN SUPPORTING ADMINISTRATIVE SERVICES",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Anisa Puspita Sari"
+}

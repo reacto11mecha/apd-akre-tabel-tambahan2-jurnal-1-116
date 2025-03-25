@@ -92,8 +92,10 @@ const selectors = [
     // theoritically student is the first writer;
     const firstAuthor = authors[0];
 
-    // YYYY-MM-DD
-    const publishedYear = publishedDate.split("-")[0];
+    // Should be YYYY-MM-DD
+    const publishedYear = publishedDate
+      .split("-")
+      .sort((a, b) => b.length - a.length)[0];
 
     const correctionMessage = [];
 
@@ -153,7 +155,7 @@ const selectors = [
 
   fs.writeFileSync(
     "./result/errors.txt",
-    `Berikut ini pengecekan yang error, mohon periksa secara manual.\n\n\n${errors.map((e) => `Nomor ${e.number}, Reason: ${e.reason}`).join("\n\n")}`,
+    `Berikut ini pengecekan yang error, mohon periksa secara manual.\n\n\n${errors.map((e) => `Nomor ${e.number}, Reason: ${e.reason}`).join("\n")}`,
   );
 
   console.log("done.");

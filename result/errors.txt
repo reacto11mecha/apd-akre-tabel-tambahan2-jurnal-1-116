@@ -1,0 +1,8 @@
+Berikut ini pengecekan yang error, mohon periksa secara manual.
+
+
+Nomor 5, Reason: Can't open the journal
+Nomor 16, Reason: Can't open the journal
+Nomor 21, Reason: Can't reach for the selector
+Nomor 22, Reason: Can't reach for the selector
+Nomor 23, Reason: Can't open the journal
