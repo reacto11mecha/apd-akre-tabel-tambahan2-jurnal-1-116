@@ -1,13 +1,19 @@
-Mohon perbaiki secara manual berdasarkan laporan dibawah ini.
+Yang udah ga ada keterangan lengkap, itu udah dibenerin.
 
-
-NOMOR: 2
-NOMOR: 14
-NOMOR: 26
-NOMOR: 46
-NOMOR: 53
-NOMOR: 58
-NOMOR: 63
+NOMOR: 2,
+NOMOR: 14,
+NOMOR: 26,
+NOMOR: 46,
+NOMOR: 53,
+NOMOR: 58,
+NOMOR: 63,
+NOMOR: 68,
+NOMOR: 72,
+NOMOR: 73,
+NOMOR: 75,
+NOMOR: 88,
+NOMOR: 101,
+NOMOR: 102,
 
 NOMOR: 64
 Data asli: {"Judul_Luaran":"Kemampuan Penyesuaian Diri Pengaruhi Prestasi Akademik Mahasiswa","Tahun":"2023","Mahasiswa_yang_Terlibat":"Nadiyah"}
@@ -26,11 +32,3 @@ Data benar: {
   "Tahun": "2023",
   "Mahasiswa_yang_Terlibat": "Nurmaidah Nurmaidah"
 }
-
-NOMOR: 68
-NOMOR: 72
-NOMOR: 73
-NOMOR: 75
-NOMOR: 88
-NOMOR: 101
-NOMOR: 102

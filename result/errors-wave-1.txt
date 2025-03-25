@@ -1,12 +1,10 @@
-Berikut ini pengecekan yang error, mohon periksa secara manual.
+Yang udah ga ada reasonnya, berarti itu file yang udah bener
 
-
-Nomor 5
-Nomor 16
-Nomor 21
-Nomor 22
-
-Nomor 23
+Nomor 5,
+Nomor 16,
+Nomor 21,
+Nomor 22,
+Nomor 23,
 
 Nomor 27, Reason: Can't reach for the selector
 Nomor 29, Reason: Can't open the journal

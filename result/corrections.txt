@@ -1,36 +1,38 @@
 Mohon perbaiki secara manual berdasarkan laporan dibawah ini.
 
 
-NOMOR: 2
-NOMOR: 14
-NOMOR: 26
-NOMOR: 46
-NOMOR: 53
-NOMOR: 58
-NOMOR: 63
-
-NOMOR: 64
-Data asli: {"Judul_Luaran":"Kemampuan Penyesuaian Diri Pengaruhi Prestasi Akademik Mahasiswa","Tahun":"2023","Mahasiswa_yang_Terlibat":"Nadiyah"}
+NOMOR: 69
+Data asli: {"Judul_Luaran":"ANALISIS PENINGKATAN PRESTASI BELAJAR PADA MAHASISWA","Tahun":"2023","Mahasiswa_yang_Terlibat":"Diva Ayudya Rahendharto"}
 Koreksi: Nama mahasiswa yang terlibat tidak sama
 Data benar: {
-  "Judul_Luaran": "Kemampuan Penyesuaian Diri Pengaruhi Prestasi Akademik Mahasiswa",
+  "Judul_Luaran": "ANALISIS PENINGKATAN PRESTASI BELAJAR PADA MAHASISWA",
   "Tahun": "2023",
-  "Mahasiswa_yang_Terlibat": "Nadiyah Nadiyah"
+  "Mahasiswa_yang_Terlibat": "Diva Ayudya Rahendharto"
 }
 
-NOMOR: 66
-Data asli: {"Judul_Luaran":"Peran Organisasi dan Motivasi Belajar dalam Meningkatkan Prestasi Mahasiswa FE UNJ","Tahun":"2023","Mahasiswa_yang_Terlibat":"Nurmaidah"}
-Koreksi: Judul tidak sama. Nama mahasiswa yang terlibat tidak sama
+NOMOR: 71
+Data asli: {"Judul_Luaran":"PENGARUH KUALITAS PELAYANAN DAN KEPUASAN MAHASISWA TERHADAP BEHAVIORAL INTENTION MAHASISWA","Tahun":"2023","Mahasiswa_yang_Terlibat":"Annisa Denaputri"}
+Koreksi: Judul tidak sama.
 Data benar: {
-  "Judul_Luaran": "Peran Organisasi dan Motivasi Belajar dalam Meningkatkan Prestasi Mahasiswa FE",
+  "Judul_Luaran": "Pengaruh Kualitas Pelayanan dan Kepuasan Mahasiswa terhadap Behavioral Intention Mahasiswa",
   "Tahun": "2023",
-  "Mahasiswa_yang_Terlibat": "Nurmaidah Nurmaidah"
+  "Mahasiswa_yang_Terlibat": "Annisa Denaputri"
 }
 
-NOMOR: 68
-NOMOR: 72
-NOMOR: 73
-NOMOR: 75
-NOMOR: 88
-NOMOR: 101
-NOMOR: 102
+NOMOR: 89
+Data asli: {"Judul_Luaran":"Pengaruh Praktik Kerja Industri dan Efikasi Diri Terhadap Kesiapan Kerja Siswa","Tahun":"2023","Mahasiswa_yang_Terlibat":"Tri Nada Nisrina"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "PENGARUH PRAKTIK KERJA INDUSTRI DAN EFIKASI DIRI TERHADAP KESIAPAN KERJA SISWA",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Tri Nada Nisrina"
+}
+
+NOMOR: 116
+Data asli: {"Judul_Luaran":"ANALISIS STRATEGI KOMUNIKASI INFORMATIF PADA PT XYZ","Tahun":"2023","Mahasiswa_yang_Terlibat":"Zahra Heidi Putri"}
+Koreksi: Judul tidak sama.
+Data benar: {
+  "Judul_Luaran": "Analisis Strategi Komunikasi Informatif Pada PT XYZ",
+  "Tahun": "2023",
+  "Mahasiswa_yang_Terlibat": "Zahra Heidi Putri"
+}
