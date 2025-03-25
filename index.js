@@ -26,10 +26,7 @@ const _allJournals = csv.parse(rawData, {
 // const allJournals = _allJournals
 //const allJournals = _allJournals.slice(0, 20);
 
-const onlyScrapeThis = [
-  27, 29, 33, 34, 35, 57, 69, 71, 76, 77, 79, 82, 83, 85, 89, 91, 93, 107, 109,
-  110, 111, 113, 115, 116,
-];
+const onlyScrapeThis = [27, 29, 33, 34, 57, 79, 82, 85, 107, 109, 111, 113];
 const allJournals = _allJournals.filter((j) =>
   onlyScrapeThis.includes(parseInt(j.No))
 );
@@ -136,6 +133,12 @@ const ignoreList = [
 
   // dari si error
   5, 16, 21, 22, 23,
+
+  // dari correction wave 2
+  69, 71, 89, 116,
+
+  // wave 3
+  29, 111,
 ];
 
 (async function () {

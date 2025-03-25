@@ -2,14 +2,9 @@ Berikut ini pengecekan yang error, mohon periksa secara manual.
 
 
 Nomor 27, Reason: Can't open the journal
-Nomor 29, Reason: Can't open the journal
 Nomor 33, Reason: Can't reach for the selector
-Nomor 34, Reason: Can't reach for the selector
-Nomor 57, Reason: Can't open the journal
+Nomor 34, Reason: Can't open the journal
 Nomor 79, Reason: Can't open the journal
 Nomor 82, Reason: Can't open the journal
-Nomor 85, Reason: Can't open the journal
 Nomor 107, Reason: Can't open the journal
 Nomor 109, Reason: Can't open the journal
-Nomor 111, Reason: Can't open the journal
-Nomor 113, Reason: Can't open the journal
