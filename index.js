@@ -39,11 +39,17 @@ const selectors = [
   ".item.authors",
 ];
 
+const skipList = [
+  
+];
+
 (async function () {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
   for (const journal of allJournals) {
+    if (skipList.includes(parseInt(journal.No))) continue;
+
     console.log(`[JOB] processing journal number ${journal.No}`);
 
     try {
