@@ -18,12 +18,12 @@ const rawData = fs.readFileSync("./data.csv", "utf8");
  *  }[]
  *
  */
-const _allJournals = csv.parse(rawData, {
+const allJournals = csv.parse(rawData, {
   columns: true,
   skip_empty_lines: true,
 });
 
-const allJournals = _allJournals.slice(0, 20);
+//const allJournals = _allJournals.slice(0, 20);
 
 const errors = [];
 const corrections = [];
